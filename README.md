@@ -12,5 +12,4 @@ The aim of this repoisitory is to show my knowledge to people interested.
 * **House SalePrice Prediction:** Regression problem. EDA and use of a number of Feature Engineering and Feature Selection techniques. Finally use of ANN and XGBoost for prediction
 * **Santander Customer Satisfaction:** Classification problem with highly imbalanced data. EDA and use of a number of Feature Engineering and Feature Selection techniques. Two of the most modern gradient boosted descision tree models: XGboost and LightGBM are applied to make predictions with weighting the loss due to the unbalanced data.
 * **Categorical Encoding:** Use of a number of categorical encoding techniques including: Ordinal label encoding, Binary encoding, Hash tricks, Encoding based on mean target value, Encoding based on alphabetical order of strings, Encoding of cyclical data
-
-
+* **Ensamble Titanic:** Use of 2-stages Ensamble Learning on the Titanic Dataset. In the first stage I build a base classification composed of several different classification algorithms with Kflodnd use a democracy voting for comparison with the final result. Finaly I use an ANN on the result from the first stage along with scalled preprocessed features for the final classification.

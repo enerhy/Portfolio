@@ -6,6 +6,7 @@ The aim of this repository is to show my knowledge to people interested.
 ## Visual:
 * **Face Recognition:** FaceNet, Multi-Task Cascaded Convolutional Neural Network and a linear SVC with Kearas
 * **Neuro Style Transfer:** Generating Images based VGG19 implementing Style and Content Loss from intermediate layers and training using TF20 Graph mode
+* **YOLOv2_Object_Detection:** Application of YOLOv2 Object Detection algorithm in Tensorflow 2.x with weights pretrained on the COCO-Dataset. The algorithm performs pretty well in detecting and recognizing the 80 classes. It could be extended to work on custom classes and to work on video. The work uses the work of Allan Zelender and Andrew Ng (Coursera course), however extends them by applying Tensorflow 2.x with some minor additions. 
 * **Recognizing Blood Cells disorders:** An exercise of implementing several different CNN type of blocks/layers including: ResNet blocks, Inception blocks, One-to-One convolutions. Additionally, partial reuse of pretrained weights on ResNet50 and Inception with self-training of part of the network with early stopping.
 * **Cifar10:** Image Classification with 10 classes. Use of basic EDA, Data Augmentation and custom CNN for prediction.
 ## Tabular:

@@ -1,5 +1,5 @@
 # Portfolio
-This repository contains a subset of the projects I've been working on. 
+This repository contains a subset of the Machine Learning and Computer Vision projects I've been working on. 
 The content will be continuously updated since I am improving the existing projects and adding new ones.
 The aim of this repository is to show my knowledge to people interested.
 

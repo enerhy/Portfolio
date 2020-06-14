@@ -48,7 +48,7 @@ while success:
         face_confidence = face[2]
         if face_confidence > face_confidence_threshold:
 
-            # Get the face coordinates.
+            # Get the face coordinates. 
             x0, y0, x1, y1 = (face[3:7] * [w, h, w, h]).astype(int)
 
             # Classify the age and gender of the face based on a

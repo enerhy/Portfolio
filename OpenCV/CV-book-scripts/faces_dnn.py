@@ -1,3 +1,5 @@
+# Additional files and script from here: https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition
+
 import cv2
 import numpy as np
 

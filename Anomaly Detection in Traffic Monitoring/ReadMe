@@ -3,6 +3,6 @@ For more details on the project check the presentation.
 The video on which the project was applied could be found here: https://www.youtube.com/watch?v=wqctLW0Hb_0&list=PLQzv70k-dAIMG12I-mHMAKShjY8_9OMkT&index=4
 
 If you want to run the code: 
-1. run the preprocessing script track_processing.ipynb using the trajectories use the upploaded trajectories rtf_full_output_trajectories.txt
+1. run the preprocessing script track_processing.ipynb using the trajectories use the upploaded trajectories rtf_full_output_trajectories.txt in the .zip file.
 2. run the VAE.ipynb with the output from the first script.
 
